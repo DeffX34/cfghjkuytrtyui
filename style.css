@@ -1,0 +1,8 @@
+body {
+    font-family: sans-serif;
+}
+h1{ 
+    background-color: indigo;
+    color: rgb(17, 73, 239);
+    padding: 10px;
+}
